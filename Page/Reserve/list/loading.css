@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.page2{
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100vh;
+    background-color: #2b323c;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.page2 h1{
+    font-size: 80px;
+    font-weight: 600;
+
+}
+.autotype{
+    color: greenyellow;
+}
